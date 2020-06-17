@@ -1,0 +1,133 @@
+body
+{
+    margin: 0;
+    background-color: #c1d9e7;
+}
+a{
+    color:gray;
+    text-decoration:none;  /*超链接无下划线*/
+}
+.header
+{
+    margin: 20px auto 60px auto;
+    height: 250px;     
+}
+.inner
+{
+    width:1000px;
+    margin-left:auto;
+    margin-right: auto;
+}
+.cunt1{
+    height: 250px;
+    background-color: rgb(230, 170, 170);
+}
+.nav{
+    height: 35px;
+    background-color:white;
+    margin: 0 auto 20px auto;
+    text-align: right;
+}
+.count
+{
+    height: 420px;
+}
+.count1-1{
+    width: 390px;
+    float: left;
+}
+.count1-2{
+    width: 590px;
+    float: right;
+}
+.count1-1-1{
+    border: 2px dotted rgb(230, 170, 170);
+    height: 70px;
+    background-color:white;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.count1-1-2{
+    border: 2px dotted rgb(230, 170, 170);
+    height: 230px;
+    background-color:white;
+    margin-right: 20px;
+    /* padding-left: 10px; */
+}
+.count1-2-1{
+    height:420px;
+    background-color:white;
+}
+.foot{
+    height: 30px;
+    width: 1000px;
+    margin: 20px auto 30px auto;
+    background-color:rgb(230, 170, 170);
+}
+#img{
+    background: url(images/3.jpg) no-repeat center bottom;
+}
+.image{
+    margin: 10px 10px 10px 10px;
+    height:100px;
+    width: 150px;
+    float: left;
+    background: url(images/4.jpg) no-repeat left ;
+}
+.cunt1-1
+{   height: 150px;
+    width: 1000px;
+    text-align: center;
+}
+.cunt1-2
+{   height: 150px;
+    width: 1000px;
+    text-align: center;
+}
+p{
+    margin: 10px 10px auto 10px;
+    font-size: 20px;
+    font-family: "SimSun";
+    font-weight: bold;
+    color:gray;
+}
+.name1{
+    color:white;
+}
+.word{
+    margin: 10px auto auto auto;
+    font-size: 15px;
+    font-family: "SimSun";
+    color: #faf9f8;
+}
+.nav1{
+    margin: 10px 15px auto 15px;
+    font-size: 15px;
+    font-family: "Microsoft YaHei";
+    color:gray;
+}
+.words
+{
+    color: gray;
+}
+.word1{
+    font-size: 15px;
+    font-family: "SimSun";
+    color: gray;
+    line-height: 2;
+    font-weight: bold;
+}
+ol{
+    /* 有序列表 */
+    margin: 0;
+}
+.count1-2-1-img{
+    height: 45px;
+    background: url(images/body.jpg) repeat-x ;
+    background-color: rgb(230, 170, 170);
+}
+.time{
+    background-color: rgb(230, 170, 170);
+    color: rgb(59, 32, 32);
+}

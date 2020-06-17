@@ -1,0 +1,41 @@
+body{
+    /* 背景颜色 */
+    background-color: rgb(32, 21, 21);
+}
+a{
+    color:white;
+    text-decoration:none;  /*超链接无下划线*/
+}
+.header{
+    /* 背景图片和大小 */
+    height: 600px;
+    background: url(images/12.jpg) repeat;  
+} 
+.inner{
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cov0{
+    height: 100px;
+}
+.cov{
+    width: 300px;
+    height:350px ;
+    background:  url(images/14.jpg) no-repeat;
+    float: left;
+}
+.cov1{
+    float:right;
+    width: 250px;
+    height:350px ;
+    background-color: rgba(247, 169, 169, 0.815);
+    font-size: 20px;
+    font-family: "SimSun";
+    font-weight: bold;
+}
+p{
+    font-size: 20px;
+    font-family: "SimSun";
+    color: white;
+}
